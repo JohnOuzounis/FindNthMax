@@ -1,5 +1,5 @@
 # FindNthMax
 #
-# The program finds n maximum numbers out of k, where 1 <= n <= k
+# The program finds the n-th maximum number out of k, where 1 <= n <= k
 #
 #
